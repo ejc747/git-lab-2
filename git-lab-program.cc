@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Ethan Coyner
  *        Date: 02/04/2024
- * Description: Add Description
+ * Description: Hello program
  */
 
 #include <iostream>
